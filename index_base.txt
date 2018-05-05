@@ -1,0 +1,482 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>GCBA: IFTS 12 - Instituto de Formacion Tecnica Superior N 12</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Type" content="text/HTML; charset=iso-8859-1"  />
+<link rel="stylesheet" type="text/css" href="/campus/web/css/classic/main.css" media="screen, projection, tv" /> 
+ 
+<link rel="stylesheet" type="text/css" href="/campus/web/css/print.css" media="print" /> 
+<link rel="top" href="/index.php" title="" />
+<link href="http://www.claroline.net/documentation.htm" rel="Help" />
+<link href="http://www.claroline.net/credits.htm" rel="Author" />
+<link href="http://www.claroline.net" rel="Copyright" />
+<script type="text/javascript">
+    document.cookie="javascriptEnabled=true; path=/campus";
+    function claro_session_loss_countdown(sessionLifeTime){
+    var chrono = setTimeout('claro_warn_of_session_loss()', sessionLifeTime * 1000);
+}
+
+function claro_warn_of_session_loss() {
+    alert('WARNING ! You have just lost your session on the server.\nCopie cualquier texto que esté escribiendo actualmente y péguelo fuera del navegador');
+}
+</script>
+<script src="/campus/web/js/jquery.js?1243952249" type="text/javascript"></script>
+<script src="/campus/web/js/claroline.js?1236071559" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/campus/web/css/profile.css?1220616123" media="all" /></head>
+<body dir="ltr" onload="claro_session_loss_countdown(1440);" >
+
+<!-- claroPage -->
+<div id="claroPage">
+
+<!-- Banner -->
+<div id="topBanner">
+
+<!-- Platform Banner -->
+<div id="platformBanner">
+    <div id="campusBannerLeft">
+        <span id="siteName">
+                <a href="/campus/index.php" target="_top">GCBA: IFTS 12 - Instituto de Formacion Tecnica Superior N 12</a>
+        </span>
+        
+<!-- campusBannerLeft -->
+
+<!-- End of campusBannerLeft -->
+    </div>
+    <div id="campusBannerRight">
+        <span id="institution">
+                <a href="http://www.ifts12online.com.ar" target="_top">IFTS 12</a>
+                </span>
+        
+<!-- campusBannerRight -->
+
+<!-- End of campusBannerRight -->
+    </div>
+    <div class="spacer"></div>
+</div>
+<!-- End of Platform Banner -->
+
+<!-- User Banner -->
+<div id="userBanner">
+    <div id="userBannerLeft">
+        <span id="userName">
+        Marcelo Natalio Saied : 
+        </span>
+        
+
+<span>
+<a href="/campus/claroline/desktop/index.php" target="_top">Mi escritorio</a>
+ | 
+<a href="/campus/index.php" target="_top">Mis cursos</a>
+ | 
+<a href="/campus/claroline/auth/profile.php" target="_top">Modificar mis datos</a>
+ | 
+<a href="/campus/claroline/messaging" target="_top">Mensajes</a>
+ | 
+<a href="/campus/index.php?logout=true" target="_top">Salir</a>
+</span>
+
+        
+<!-- userBannerLeft -->
+
+<!-- End of userBannerLeft -->
+    </div>
+    <div id="userBannerRight">
+        
+<!-- userBannerRight -->
+
+<!-- End of userBannerRight -->
+    </div>
+
+    <div class="spacer"></div>
+</div>
+<!-- End of User Banner -->
+
+
+<!-- BreadcrumbLine  -->
+<div id="breadcrumbLine">
+<hr />
+<div class="breadcrumbTrails">
+<ul class="breadCrumbs">
+<li class="breadCrumbsNode lastBreadCrumbsNode"><a href="/campus/index.php"  target="_top"><img src="/campus/web/img/home.png?1232379976" alt="home" />GCBA: IFTS 12 - Instituto de Formacion Tecnica Superior N 12</a></li>
+</ul>
+</div>
+<div id="toolViewOption">
+</div>
+<div class="spacer"></div>
+<hr />
+</div>
+<!-- End of BreadcrumbLine  -->
+
+</div>
+<!-- End of Banner -->
+
+<!-- - - - - - - - - - - Claroline Body - - - - - - - - - -->
+<div id="claroBody">
+
+<!-- Page content -->
+
+<div id="rightSidebar">
+
+<div id="userProfileBox">
+<div class="header" id="userProfileTitle">
+<a href="/campus/claroline/desktop/index.php">Marcelo Natalio&nbsp;Saied</a></div>
+<div id="userProfile">
+<div id="userPicture"><img src="/campus/platform/users/6bfdad0df86f1a2d511543f50642e825/95x120_Marcelo_Saied.jpg" alt="avatar" /></div>
+<div id="userDetails"><p><span>Usuario</span><br /> Marcelo Natalio Saied</p>
+<p><span>Correo electrónico</span><br /> marcelosaied@gmail.com</p>
+<p><a class="claroCmd" href="/campus/claroline/auth/profile.php">
+<img src="/campus/web/img/edit.png?1232379976" alt="" />
+ Modificar</a></p></div>
+</div>
+</div>
+
+
+<!-- campusHomePageRightMenu -->
+
+<!-- End of campusHomePageRightMenu -->
+
+<!-- BEGIN Help Center Live Code, Copyright (c) 2005 Help Center Live. All Rights Reserved -->
+<div id="div_initiate" style="z-index: 1; left: 40%; visibility: hidden; position: absolute; top: 40%">
+<a href="javascript:Live.initiate_accept();"><img src="http://www.ifts12online.com.ar/soporte/templates/Bliss/images/initiate.gif" border="0" /></a><br />
+<a href="javascript:Live.initiate_decline();"><img src="http://www.ifts12online.com.ar/soporte/templates/Bliss/images/initiate_close.gif" border="0" /></a> 
+</div>
+<p>
+&nbsp;&nbsp;
+</p>
+<!-- content: html tiny_mce -->
+</div>
+
+<div id="leftContent">
+
+<h2 align="center"><font color="#3366ff">Bienvenidos al Campus Virtual</font></h2><br />
+
+
+
+<hr />
+
+<center>
+<p align="center">
+
+<strong><font color="#333399">
+
+<t1>Importante:</t1><br>
+Se informa a los distintos usuarios(docentes, alumnos, personal administrativo, en general,
+que para ingresar al sitio web del IFTS12 a partir de ahora en adelante es:<br> <br>
+<b><blink>http://www.ifts12online.com.ar</blink><b/><br><br>
+Es importante destacar que NO  hay que realizar ningun cambio de usuario, claves, etc., 
+se mantienen los vigentes.<br>
+Todas las novedades tales como informacion sobre fechas de inscripcion, finales, institucionales,etc. 
+estarán como siempre disponibles a traves del sitio web IFTS12. 
+
+</strong> 
+
+</p>
+</center>
+<hr>
+
+
+<font color="#ff0000"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Antes de registrarse le recomendamos leer&nbsp;el</strong> <a href="http://www.ifts12online.com.ar/politicas.html" target="_blank" title="Politicas de Uso"><font color="#0000ff">Aviso Legal</font></a>&nbsp;<strong>del campus.</strong></font> 
+
+<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Si tiene alguna duda, sugerencia o incoveniente t&eacute;cnico, puede contactar al <a href="mailto:campus.ifts12@gmail.com"><font color="#0000ff">Soporte T&eacute;cnico</font></a> del campus 
+
+</p>
+
+<p align="center">
+
+<strong><font color="#333399"><a href="http://www.jornadatrabajoit.com.ar/busquedas/grupomercel.html" target="_blank" title="Busquedas Laborales">ACCEDER A LAS BUSQUEDAS LABORALES </a></font></strong> 
+
+</p>
+
+<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ifts12online.com.ar/campus/manual_alumno.pdf" target="_blank" title="manual_alumno"><font color="#0000ff">Descargar Manual del Alumno</font></a><font color="#0000ff">&nbsp;&nbsp;-&nbsp; </font><a href="http://www.ifts12online.com.ar/campus/FAQ.html" target="_blank" title="FAQ"><font color="#0000ff">FAQ-Preguntas Frecuentes</font></a> 
+
+</p>
+
+<table border="0">
+
+	<tbody>
+
+		<tr>
+
+			<td><font size="2" color="#ffffff"><br />
+
+			</font></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+<!-- Powered by: Crafty Syntax Live Help        http://www.craftysyntax.com/ -->
+
+<div id="craftysyntax">
+
+<br />
+
+<!--
+
+<font size="-0" color="#3366ff">Cronograma Sexual:</font> <a href="http://www.ifts15.com.ar/ifts/documentos/DIC2012a.doc" target="_blank">Descargar</a> 
+
+-->
+
+</div>
+
+<!-- copyright 2003 - 2008 by Eric Gerdes -->
+
+<hr width="100%" size="2" />
+
+<a href="http://www.ifts12online.com.ar"><font color="#0000ff">Volver al sitio principal&nbsp;</font></a><font color="#0000ff">&nbsp;&nbsp; |&nbsp; </font><a href="http://www.site.ifts12online.com.ar/politicas.html" target="_blank" title="Politicas de Uso y Confidencialidad"><font color="#0000ff">Aviso Legal</font></a> <!-- END Help Center Live Code, Copyright (c) 2005 Help Center Live. All Rights Reserved -->
+
+<!-- campusHomePageTop -->
+
+<!-- End of campusHomePageTop -->
+
+<p>
+<center>
+
+<br>
+
+<br><font size="4">AREA EXCLUSIVA PARA ALUMNOS DEL CAMPUS VIRTUAL - IFTS 12</font>
+</p>
+
+</center>
+<!--
+-->
+<center>
+
+<br>
+
+<hr>
+IMPORTANTE - Informacion Alumnos Plan PROGRESAR  - Vencimiento Lunes 16 de Abril de 2018.
+<br>
+<br><blink><font size="5" color=red> <a href="http://www.ifts12online.com.ar/webnew/documentos/InscriptosBecaProgresar.pdf"></font><t1><b>Informacion Plan PROGRESAR aqui</b></t1></a></blink> <br>
+
+<br>
+
+<br>
+</center>
+
+<!--
+
+<center>
+<b><t2><blink><font size="3" color=green> IMPORTANTE - Inscripcion a Examenes Finales FEBRERO - MARZO 2018</font></blink> </t2></b><br>
+<br><a href="http://www.ifts12online.com.ar/finales/" size="11" ><b><t1><blink>Inscribirse aqui a Finales FEBRERO - MARZO 2018</blink></t1> </b></a> <br>
+
+</center>
+
+<br>
+-->
+
+<hr>
+<center>
+<br><blink><a href="https://aulastecnicasuperior.buenosaires.gob.ar"><t1><b>
+Link de Acceso a Materias Virtuales IFTS12 </b></t1></a></blink> <br>
+<br>
+<br>
+
+<!-- 
+<br><blink><a href="http://www.ifts12online.com.ar/webnew/documentos/FEBRERO_MARZO_2018.doc"><t1><b>
+Fechas de Finales Febrero - Marzo 2018 - ACTUALIZADO</b></t1></a></blink> <br>
+<br>
+
+
+Link de inscripcion en breve..!!!  
+
+-->
+</center>
+<br>
+<hr>
+
+
+<!--
+<center>
+<br><blink><a href="http://www.ifts12online.com.ar/webnew/documentos/AP_14_1C.xls"><t3><b>Administración Pública</b></t3></a></blink> <br>
+</center>
+<br>
+<center>
+<br><blink><a href="http://www.ifts12online.com.ar/webnew/documentos/PC2014_2C.xls"><t3><b>Políticas Culturales</b></t3></a></blink> <br>
+</center>
+<br>
+
+-->
+<br>
+
+<br>
+<center>
+<b><t1><blink><font size="3" color=green> An&aacute;lisis de Sistemas - Horarios  - 1er. Cuatrimestre  - 2018 - ACTUALIZADO </font></blink> </t1></b><br>
+<br><a href="http://www.ifts12online.com.ar/webnew/documentos/AS_2018_1C.xls"><t1><b> Descargar </b></t1></a> <br>
+<br><br>
+</center>
+<br>
+
+<center>
+<b><t1><blink><font size="3" color=green> Pol&iacute;ticas Culturales - Horarios  - 1er. Cuatrimestre  - 2018 - ACTUALIZADO</font></blink> </t1></b><br>
+<br><a href="http://www.ifts12online.com.ar/webnew/documentos/PC_2018_1C.xls"><t1><b> Descargar </b></t1></a> <br>
+<br><br>
+</center>
+<br>
+
+<center>
+<b><t1><blink><font size="3" color=green> Administraci&oacute;on P&uacute;blica - Horarios  - 1er. Cuatrimestre  - 2018 - ACTUALIZADO</font></blink> </t1></b><br>
+<br><a href="http://www.ifts12online.com.ar/webnew/documentos/AP_2018_1C.xls"><t1><b> Descargar </b></t1></a> <br>
+<br><br>
+</center>
+<br>
+
+<!-- 
+
+
+<center>
+<br><a href="http://www.ifts12online.com.ar/webnew/documentos/AULAS_2015_2C.xls"><t3><b>Listado de Aulas - 2do. Cuatrimestre  - 2015</b></t3></a> <br>
+<br></center>
+<p>
+<font size="4">-------------------------------------------------------------------------------------------------------------------</font>
+</p>
+
+-->
+
+</center>
+<br><font size="4">AREA EXCLUSIVA PARA ALUMNOS DEL CAMPUS VIRTUAL - IFTS 12</font>
+</p>
+
+<!--
+<font size="4">------------------------------------------------------------------------------------------------------------------ </font>
+</p>
+<p>
+
+
+<font size="4">IMPORTANTE: Se informa a los alumnos deber&aacute;n completar el CENSO ACADEMICO&nbsp; <a href="http://www.ifts12.com.ar/censo/userid.php" target="_blank" title="CENSO 2010">Haga clic aqu&iacute; para completar el CENSO</a></font>
+</p>
+
+
+
+<p>
+<font size="4">-------------------------------------------------------------------------------------------------------------------</font>
+</p>
+
+<!-- content: html tiny_mce -->
+<a name="myCourseList"></a><p>
+
+<span>
+<a href="/campus/index.php" class="claroCmd"><img src="/campus/web/img/mycourses.png?1232379976" alt="" /> Mis cursos</a>
+ | 
+<a href="/campus/index.php?category=" class="claroCmd"><img src="/campus/web/img/course.png?1232379976" alt="" /> Todos los cursos de la plataforma</a>
+</span>
+
+</p>
+
+<h3 class="claroToolTitle">Mis cursos</h3>
+
+<dl class="userCourseList">
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2106E">Análisis de Sistemas (AS2106E)</a>
+</dt>
+<dd><small>
+Pablo De Vas</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2209E">Base de Datos (AS2209E)</a>
+</dt>
+<dd><small>
+NOGUERA BERAUDO, Enrique Alexis</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2104E">Cálculo Numérico (AS2104E)</a>
+</dt>
+<dd><small>
+Gonzalez, Raul</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2210E">Diseño de Sistemas (AS2210E)</a>
+</dt>
+<dd><small>
+Arellano, Matias</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2103E">Gestión de Proyectos Informáticos (AS2103E)</a>
+</dt>
+<dd><small>
+Purriños, Juan Carlos</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2105E">Ingeniería de Software (AS2105E)</a>
+</dt>
+<dd><small>
+Arellano, Matias</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2101E">Planeamiento y Control de Gestión (AS2101E)</a>
+</dt>
+<dd><small>
+Barrandeguy, Maria Cristina</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2211">Práctica Profesional II - De Diagnóstico y Diseño (AS2211E)</a>
+</dt>
+<dd><small>
+Gonzalez, Raul Adrian</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2102E">Programación Aplicada (AS2102E)</a>
+</dt>
+<dd><small>
+NOGUERA BERAUDO, Enrique Alexis</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2207BIS">Seminario de Profundización en Sistemas Aplicados (AS2207E)</a>
+</dt>
+<dd><small>
+LIBERTINO, Magdalena</small>
+</dd>
+<dt class="" >
+<img class="iconDefinitionList" src="/campus/web/img/course.png?1232379976" alt="" /><a href="/campus/claroline/course/index.php?cid=AS2208E">Sistemas Operativos y Comunicaciones (AS2208E)</a>
+</dt>
+<dd><small>
+Casco, Tomás</small>
+</dd>
+</dl>
+
+
+<!-- campusHomePageBottom -->
+
+<!-- End of campusHomePageBottom -->
+
+</div><!-- End of Page Content -->
+
+<div class="spacer"></div>
+</div>
+<!-- - - - - - - - - - - End of Claroline Body  - - - - - - - - - - -->
+
+<div id="campusFooter">
+    <hr />
+    <div id="campusFooterLeft">
+        
+<!-- campusFooterLeft -->
+
+<!-- End of campusFooterLeft -->
+            </div>
+    <div id="campusFooterRight">
+        
+<!-- campusFooterRight -->
+
+<!-- End of campusFooterRight -->
+        <div id="platformManager">Administrador de GCBA: IFTS 12 - Instituto de Formacion Tecnica Superior N 12 : <a href="mailto:campus.ifts12@gmail.com?subject=[GCBA%3A%20IFTS%2012%20-%20Instituto%20de%20Formacion%20Tecnica%20Superior%20N%2012]">Administrador Campus</a></div>    </div>
+    <div id="campusFooterCenter">
+        
+<!-- campusFooterCenter -->
+
+<!-- End of campusFooterCenter -->
+        <div id="poweredBy">Generado con <a href="http://www.claroline.net" target="_blank">Claroline</a> &copy; 2001 - 2009</div>    </div>
+</div>
+<!-- end of claroPage -->
+</div>
+</body>
+</html>
